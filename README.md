@@ -13,7 +13,7 @@ C'est pour cette raison que je voulais aborder ce sujet. Pour que nous devenenio
   1. le titre:
      - Se limiter a 50 caracteres max
   2. Description:
-     - Se limiter à 70 caracteres.Etre conscis mais precis.
+     - Se limiter à 72 caracteres.Etre conscis mais precis.
   3. (Footer) Le pourquoi du changement
      - Surtout si on ne commente pas notre code.
 
