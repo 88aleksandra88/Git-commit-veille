@@ -11,11 +11,11 @@ C'est pour cette raison que je voulais aborder ce sujet. Pour que nous devenenio
 
 - Faire des commits sur plusieurs lignes
    * le titre:
-         * Se limiter a 50 caracteres max
+         - Se limiter a 50 caracteres max
    * Description:
-         * Se limiter à 72 caracteres.Etre conscis mais precis.
+         - Se limiter à 72 caracteres.Etre conscis mais precis.
    * (Footer) Le pourquoi du changement
-         *  Surtout si on ne commente pas notre code.
+         - Surtout si on ne commente pas notre code.
 
 
 ## Structure ideale d'un commit
