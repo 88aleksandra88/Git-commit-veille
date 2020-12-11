@@ -10,5 +10,5 @@ Pour lister les commits réalisés par vous ou toute l'équipe il suffit de tape
 
   - <img src="assets/img/4.png">
 
-↪ [Next](ThirdPage.md)
 ↪ [Previous](README.md)
+↪ [Next](ThirdPage.md)
