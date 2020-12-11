@@ -10,24 +10,21 @@ C'est pour cette raison que je voulais aborder ce sujet. Pour que nous devenenio
 - Commit souvent. C'est dur de s'y retrouver quand on commit pas assez et que il y'as trop de modifications apportés dans les fichiers/dossiers differents.
 
 - Faire des commits sur plusieurs lignes
-   * le titre:
-         - Se limiter a 50 caracteres max
-   * Description:
-         - Se limiter à 72 caracteres.Etre conscis mais precis.
-   * (Footer) Le pourquoi du changement
-         - Surtout si on ne commente pas notre code.
-
+  - le titre:
+    Se limiter a 50 caracteres max
+  - Description:
+    Se limiter à 72 caracteres. Etre conscis mais precis.
+  - (Footer) Le pourquoi du changement.
+    Surtout si on ne commente pas notre code.
 
 ## Structure ideale d'un commit
 
 <img src="https://cdn.thenewstack.io/media/2018/05/700759e3-deargit.png">
 
 - Et en pratique:
-   * a faire:
-      * <img src="assets/img/1.png">
-   * a éviter:
-      * <img src="assets/img/2.png">
+  - a faire:
+    - <img src="assets/img/1.png">
+  - a éviter:
+    - <img src="assets/img/2.png">
 
-
-↪  [Next](SecondPage.md)
-
+↪ [Next](SecondPage.md)
