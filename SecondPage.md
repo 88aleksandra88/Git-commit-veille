@@ -6,7 +6,7 @@ Pour lister les commits réalisés par vous ou toute l'équipe il suffit de tape
 
   - <img src="assets/img/3.png">
 
-- git logg (donne un resultat visuellement plus agréable).
+- git logg (donne un résultat visuellement plus agréable).
 
   - <img src="assets/img/4.png">
 
