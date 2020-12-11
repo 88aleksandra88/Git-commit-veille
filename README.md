@@ -10,12 +10,12 @@ C'est pour cette raison que je voulais aborder ce sujet. Pour que nous devenenio
 - Commit souvent. C'est dur de s'y retrouver quand on commit pas assez et que il y'as trop de modifications apportés dans les fichiers/dossiers differents.
 
 - Faire des commits sur plusieurs lignes
-  1. le titre:
-     - Se limiter a 50 caracteres max
-  2. Description:
-     - Se limiter à 72 caracteres.Etre conscis mais precis.
-  3. (Footer) Le pourquoi du changement
-     - Surtout si on ne commente pas notre code.
+   * le titre:
+         * Se limiter a 50 caracteres max
+   * Description:
+         * Se limiter à 72 caracteres.Etre conscis mais precis.
+   * (Footer) Le pourquoi du changement
+         *  Surtout si on ne commente pas notre code.
 
 
 ## Structure ideale d'un commit
